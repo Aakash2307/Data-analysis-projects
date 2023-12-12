@@ -1,0 +1,6 @@
+This project is based on the analysis of the bitcoin prices over the years of 2013 to 2017
+
+It Focus on different aspect of changing of the bitcoin price on Yearly , Quarterly and monthly bases
+
+Different Plots have been made to present the correct way of the relations of price and time in the charts
+
